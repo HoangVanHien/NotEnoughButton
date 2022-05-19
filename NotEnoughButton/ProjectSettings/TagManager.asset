@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ButtonBox
+  - PlusBox
+  - DeleteBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Blocking
+  - PlusBox
+  - ButtonBox
+  - DeleteBox
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DeleteBox
+    uniqueID: 1019523687
+    locked: 0
+  - name: PlusBox
+    uniqueID: 395647745
+    locked: 0
+  - name: ButtonBox
+    uniqueID: 652715649
+    locked: 0
+  - name: Player
+    uniqueID: 2661958465
+    locked: 0
